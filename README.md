@@ -7,3 +7,5 @@ in the terminal Window, Subject Name would the same You have mentioned in the di
 
 -> You should have Selenium and the desired WebDriver for your desired WebBrowser. I used Chrome Driver which You can download from
 https://sites.google.com/a/chromium.org/chromedriver/downloads , and place that in desired PATH.
+
+-> You have to add Your Google Account Address in email.txt and its Password in pwd.txt, so that you dont expose Your personel info.
